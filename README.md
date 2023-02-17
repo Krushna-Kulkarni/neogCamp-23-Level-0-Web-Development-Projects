@@ -7,7 +7,7 @@ All the projects below are included in my [Personal Portfolio Website](https://k
 
 
 
-1. [How well do you know me?](https://github.com/Krushna-Kulkarni/do-you-know-me-quiz)
+1. [How well do you know me?](https://github.com/Krushna-Kulkarni/do-you-know-me-quiz){:target="_blank" rel="noopener"}
 
  - A CLI app built with nodeJS. You can send this to your friends and find out who really knows you.
 -------------------------------
