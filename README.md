@@ -1,7 +1,7 @@
 # neogCamp'23 Level 0 Web Development Projects
 All [neogCamp](https://www.neog.camp)'23 Level 0 Web Development Project Repositories at one place.
 
-All the projects below are included in my [Personal Portfolio Website](https://krushnakulkarni.netlify.app/)
+All the projects below are included in my [Personal Portfolio Website](https://krushnakulkarni-v1.netlify.app/)
 
 ---------------------------------------------------------
 
